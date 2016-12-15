@@ -1,0 +1,131 @@
+Reversi
+├── Main
+│   ├── readme.s
+│   └── Readme.txt
+├── Reversi
+│   └── 4
+│   └── 4
+│   └── 4
+│   └── 4
+│   └── 4
+│   └── 4
+│   └── 4
+│       ├── HelloWorld.class
+│       └── HelloWorld.java
+├── Node
+│   └── makefile
+├── ####
+│   ├── DeepLearning
+│   │   ├── data
+│   │   │   ├── 1019.log
+│   │   │   ├── 1019_save.log
+│   │   │   ├── data.log
+│   │   │   ├── test.data
+│   │   │   └── train.data
+│   │   ├── main.py
+│   │   ├── output
+│   │   │   ├── test.data
+│   │   │   └── train.data
+│   │   ├── reader.py
+│   │   └── reader.pyc
+│   └── proj_test
+│       ├── __init__.py
+│       ├── main.py
+│       ├── te1.py
+│       ├── te1.pyc
+│       ├── te2.py
+│       ├── te2.pyc
+│       ├── te3.py
+│       └── te3.pyc
+├── Reversi
+│   ├── Chess
+│   │   ├── 10.xhq
+│   │   ├── 11.xhq
+│   │   ├── 12.xhq
+│   │   ├── 13.xhq
+│   │   ├── 14.xhq
+│   │   ├── 15.xhq
+│   │   ├── 4.xhq
+│   │   ├── 5.xhq
+│   │   ├── 6.xhq
+│   │   ├── 7.xhq
+│   │   ├── 8.xhq
+│   │   └── 9.xhq
+│   ├── FinalChess
+│   │   ├── 10.xhq
+│   │   ├── 11.xhq
+│   │   ├── 12.xhq
+│   │   ├── 13.xhq
+│   │   ├── 14.xhq
+│   │   ├── 15.xhq
+│   │   ├── 4.xhq
+│   │   ├── 5.xhq
+│   │   ├── 6.xhq
+│   │   ├── 7.xhq
+│   │   ├── 8.xhq
+│   │   └── 9.xhq
+│   ├── Main.cpp
+│   ├── Project.txt
+│   ├── README.md
+│   ├── Reversi
+│   ├── Reversi.cpp
+│   └── Reversi.h
+├── Reversi_0
+│   ├── Chars.txt
+│   ├── Main.cpp
+│   ├── makefile
+│   ├── Project.txt
+│   ├── README.md
+│   ├── Reversi
+│   ├── Reversi.cpp
+│   └── Reversi.h
+├── Reversi_1023
+│   ├── Main.cpp
+│   ├── makefile
+│   ├── Project.txt
+│   ├── README.md
+│   ├── Reversi
+│   ├── Reversi.cpp
+│   └── Reversi.h
+├── Reversi_1025
+│   ├── Main.cpp
+│   ├── Main.o
+│   ├── makefile
+│   ├── Reversi.cpp
+│   ├── Reversi.h
+│   ├── Reversi.o
+│   └── test
+│       └── main.cpp
+├── Reversi1120
+│   ├── Main.cpp
+│   ├── Main.o
+│   ├── makefile
+│   ├── Reversi.cpp
+│   ├── Reversi.h
+│   ├── Reversi.o
+│   └── test
+│       └── main.cpp
+├── Reversi1124
+│   ├── Main.cpp
+│   ├── makefile
+│   ├── Reversi.cpp
+│   ├── Reversi.h
+│   └── test
+│       └── main.cpp
+├── Reversi1206
+│   ├── Main.cpp
+│   ├── Main.o
+│   ├── makefile
+│   ├── Node.cpp
+│   ├── Node.h
+│   ├── Reversi.cpp
+│   ├── Reversi.h
+│   └── tree.log
+└── tmp
+    ├── Main.cpp
+    ├── makefile
+    ├── Reversi
+    ├── Reversi.cpp
+    └── Reversi.h
+
+22 directories, 100 files
